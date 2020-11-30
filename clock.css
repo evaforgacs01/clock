@@ -1,0 +1,33 @@
+html {
+    
+}
+body {
+    margin: 0;
+    display: grid;
+    place-items: center;
+    
+}
+*{
+    box-sizing: border-box;
+}
+
+.clock {
+    
+    
+    color: blanchedalmond;
+    height: 100px;
+    
+    width: 400px;
+    top: 50%;
+    text-align: center;
+    
+    
+}
+
+.clock .display {
+    background-color: rgb(11,12,11);
+    color: cyan;
+    font-size: 60px;
+    font-family: Cyberverse, sans-serif;
+justify-content: center;
+}
