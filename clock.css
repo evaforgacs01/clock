@@ -12,16 +12,11 @@ body {
 }
 
 .clock {
-    
-    
     color: blanchedalmond;
-    height: 100px;
-    
-    width: 400px;
-    top: 50%;
+    height: 200px;
+    width: 300px;
+    margin-top: 250px;
     text-align: center;
-    
-    
 }
 
 .clock .display {
@@ -29,5 +24,5 @@ body {
     color: cyan;
     font-size: 60px;
     font-family: Cyberverse, sans-serif;
-justify-content: center;
+    justify-content: center;
 }
